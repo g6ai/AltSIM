@@ -2,7 +2,7 @@
 
 Bash script for Gammu SMSD.
 
-In your SMSD Configuration File, set the RunOnReceive option to the path of this script.
+In your SMSD Configuration File, set the RunOnReceive option to the path of this script (gammu-receive.sh).
 
 Replace `YOUR TELEGRAM BOT TOKEN` and `YOUR CHAT ID` according to your Telegram bot settings. Give the script execution privilege.
 
