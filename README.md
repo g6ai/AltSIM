@@ -1,3 +1,5 @@
+# AltSIM
+
 Bash script for Gammu SMSD.
 
 In your SMSD Configuration File, set the RunOnReceive option to the path of this script.
