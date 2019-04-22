@@ -1,6 +1,6 @@
 #!/bin/bash
-TOKEN="YOUR TELEGRAM BOT TOKEN"
-CHAT_ID=YOUR CHAT ID
+TOKEN=<YOUR_TELEGRAM_BOT_TOKEN>
+CHAT_ID=<YOUR_CHAT_ID>
 URL="https://api.telegram.org/bot$TOKEN/sendMessage"
 NL=$'\n'
 declare -i i MSGS
